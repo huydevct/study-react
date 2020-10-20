@@ -4,5 +4,13 @@ Installation
 
 React.createElement
 
-JSX
+JSX: something like HTML
+
+Create React App
+
+Component
+
+Props
+
+
 
