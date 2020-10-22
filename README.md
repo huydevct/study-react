@@ -12,5 +12,17 @@ Component
 
 Props
 
+Render a list
+
+React Developer Tools
+
+Dynamic class names
+
+Conditional rendering
+
+State
+
+Handling events
+
 
 
