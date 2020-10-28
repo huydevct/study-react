@@ -1,12 +1,23 @@
 .TodoItem {
+    display: flex;
     font-family: 'Helvetica Neue',
     Arial, Helvetica, sans-serif;
     font-weight: 300;
     font-size: 24px;
     color: #4d4d4d;
+    padding: 10px 5px;
+    border-bottom: 1px solid #eeeeee;
 }
 
-.TodoItem-complete{
+.TodoItem:last-child{
+    border-bottom: none;
+}
+
+.TodoItem > p {
+    margin: 0 0 0 20px;
+}
+
+.TodoItem-complete > p{
     text-decoration: line-through;
     opacity: .3;
 }

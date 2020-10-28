@@ -24,5 +24,11 @@ State
 
 Handling events
 
+Immutability
+
+Finish TODO app
+
+props.children
+
 
 
