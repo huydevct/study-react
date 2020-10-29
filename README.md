@@ -30,5 +30,15 @@ Finish TODO app
 
 props.children
 
+Component.propTypes
+
+React.createRef():
+    
+    - debugger;
+    
+Component Lifecycles
+
+
+
 
 

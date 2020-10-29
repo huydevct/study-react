@@ -18,7 +18,7 @@ class App extends Component {
         todoItems: [
           {title: 'Play soccer', isComplete: true},
           {title: 'Go to market', isComplete: true},
-          {title: 'Do housework'}
+          {title: 'Do housework', isComplete: false}
         ]
       }
 
