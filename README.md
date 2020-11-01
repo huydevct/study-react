@@ -53,7 +53,9 @@ React router:
 
     - in link: https://reactrouter.com/web/guides/quick-start
 
-Practice react
+Practice react:
+ 
+    - thinhpham's codesandbox: https://codesandbox.io/u/nhim175/sandboxes
 
 
 
